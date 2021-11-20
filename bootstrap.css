@@ -1,0 +1,13 @@
+.carousel-item active{
+    height: 30px;
+    width: 50px;
+    align-content: center;
+
+}
+.carousel-item{
+    height: 40%;
+    width: 50%;
+    align-items: center;
+
+
+}
